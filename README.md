@@ -1,6 +1,8 @@
 # Locaces
 A social network based on maps and locations.
 
+(It will be uploaded on phases and will be totally completed by 1 / 1 / 2016.)
+
 Purpose: 
 
 The purpose of the project Locases is to build a social network based on maps and locations. This social network will provide the opportunity to to check in some place to let your friends know that, to see if there is a friend nearby and to see some information about some place on the map. This app will be user friendly and totally free. It will be available for Android OS. It should help getting the world a smaller and better place. 
