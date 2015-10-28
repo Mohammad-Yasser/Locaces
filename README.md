@@ -1,4 +1,4 @@
-# Locases
+# Locaces
 A social network based on maps and locations.
 
 Purpose: 
