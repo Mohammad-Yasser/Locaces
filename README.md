@@ -1,5 +1,5 @@
 # Locases
-A social network based on locations.
+A social network based on maps and locations.
 
 Purpose: 
 
