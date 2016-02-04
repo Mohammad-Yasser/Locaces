@@ -1,7 +1,6 @@
 # Locaces
 A social network based on maps and locations.
 
-(It will be uploaded on phases and will be totally completed by 1 / 1 / 2016.)
 
 Purpose: 
 
